@@ -1,0 +1,138 @@
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\roslyn\csc.exe
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\roslyn\vbc.exe
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\roslyn\VBCSCompiler.exe
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\paracosmic.dll.config
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\paracosmic.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\paracosmic.pdb
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Antlr3.Runtime.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\EntityFramework.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\EntityFramework.SqlServer.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.Owin.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.Owin.Security.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Newtonsoft.Json.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Owin.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\System.Web.Helpers.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\System.Web.Mvc.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\System.Web.Optimization.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\System.Web.Razor.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\System.Web.WebPages.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\WebGrease.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\System.Web.Helpers.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\System.Web.Mvc.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\System.Web.Optimization.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\System.Web.Razor.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\System.Web.WebPages.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Antlr3.Runtime.pdb
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Newtonsoft.Json.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\EntityFramework.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\EntityFramework.SqlServer.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.Owin.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.Owin.Security.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\obj\Debug\paracosmic.csprojResolveAssemblyReference.cache
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\obj\Debug\paracosmic.dll
+C:\Users\Valerie Bright\Documents\Visual Studio 2015\Projects\paracosmic\paracosmic\paracosmic\obj\Debug\paracosmic.pdb
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\roslyn\csc.exe
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\roslyn\vbc.exe
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\roslyn\VBCSCompiler.exe
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\paracosmic.dll.config
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\paracosmic.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\paracosmic.pdb
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Antlr3.Runtime.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\EntityFramework.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\EntityFramework.SqlServer.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.Owin.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.Owin.Security.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Newtonsoft.Json.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Owin.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\System.Web.Helpers.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\System.Web.Mvc.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\System.Web.Optimization.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\System.Web.Razor.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\System.Web.WebPages.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\WebGrease.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\System.Web.Helpers.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\System.Web.Mvc.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\System.Web.Optimization.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\System.Web.Razor.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\System.Web.WebPages.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Antlr3.Runtime.pdb
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Newtonsoft.Json.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\EntityFramework.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\EntityFramework.SqlServer.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.Owin.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.Owin.Security.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\obj\Debug\paracosmic.csprojResolveAssemblyReference.cache
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\obj\Debug\paracosmic.dll
+C:\Users\Valerie Bright\Documents\paracosmic\paracosmic\obj\Debug\paracosmic.pdb
