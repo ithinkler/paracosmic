@@ -2164,7 +2164,9 @@ img{
 .error-message p a{
 	color: #4b8181;
 }
+.scroll-link {
 
+}
 
 /*======================///////////////
 			start responsive style
@@ -2199,8 +2201,8 @@ img{
 	.main-nav li a {
 	  padding: 39px 16px;
 	}
-  .scroll-link {
-
+  .single-service p{
+    height: 200px;
   }
 	.search-area input[type="text"]:focus {
 	  width: 820px;
@@ -2296,6 +2298,9 @@ img{
 	  font-size: 14px;
 	  padding: 39px 7px;
 	}
+  .single-service p{
+    height: 150px;
+  }
 	.less-padding {
 	  padding: 30px 7px !important;
 	}
@@ -2424,6 +2429,9 @@ img{
 	  display: block;
 	  padding: 8px 7px;
 	}
+  .single-service p{
+    height: 100px;
+  }
 	.less-padding {
 	  padding: 8px 7px !important;
 	}
