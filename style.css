@@ -1514,7 +1514,7 @@ img{
   background-color: rgba(104, 102, 96, 0.5);
   text-align: center;
   vertical-align: middle;
-  display: table-cell;
+  display: inline-table;
   padding: 30px 40px 10px;
 	width: 100%;
 }
