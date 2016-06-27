@@ -2233,7 +2233,7 @@ img{
 	  font-size: 20px;
 	}
 	.single-portfolio {
-	  width: 23%;
+	  width: 31.4%;
 	}
 	.single-counter > span {
 	  font-size: 50px;
@@ -2352,7 +2352,7 @@ img{
 	  padding: 0 100px;
 	}
 	.single-portfolio {
-	  width: 22.5%;
+	  width: 47.5%;
 	}
 	.portfolio-social-icon {
   		padding: 85px 50px;
@@ -2513,8 +2513,13 @@ img{
 	.team-info p {
 	  font-size: 15px;
 	}
+  .portfolio-container {
+	  margin-left: 0;
+    text-align: center;
+	}
 	.single-portfolio {
-	  width: 30.3%;
+	  width: 300px;
+    float:none;
 	}
 	.button-default::after, .button-default > span {
 	  padding: 12px 8px;
@@ -2606,9 +2611,14 @@ img{
 	.team-info p {
 	  font-size: 18px;
 	}
+  .portfolio-container {
+	  margin-left: 0;
+    text-align: center;
+	}
 	.single-portfolio {
 	  margin-left: 8px;
-	  width: 100%;
+	  width: 300px;
+    float:none;
 	}
 	#counter img {
 	  height: 354px;
@@ -2788,6 +2798,7 @@ img{
 	}
 	.portfolio-container {
 	  margin-left: 0;
+    text-align: center;
 	}
 	.portfolio-menu ul li {
 	  font-size: 12px;
