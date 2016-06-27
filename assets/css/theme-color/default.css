@@ -72,7 +72,7 @@ Author URI : http://www.markups.io/
 .button-white:hover,
 .button-white:focus {
   border-color: #fff;
-  background-color: #fff !important;
+  background-color: #2d2d2d !important;
 }
 .introduction-btn {
   background-color: rgba(45, 45, 45, 0.8);
