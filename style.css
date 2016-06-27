@@ -295,14 +295,14 @@ img{
 }
 .logo {
 	height: 100px;  
-	width: 85px;
+	width: 100px;
 	margin-right: 45px;
 	margin-top: -1px;
 	padding: 0;
 }
 .logo-compressed {
 	height: 80px;  
-	width: 70px;
+	width: 80px;
 }
 .logo img {
 	height: 100%;
