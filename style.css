@@ -1509,11 +1509,23 @@ img{
 	font-size: 35px;
 	margin-bottom: 35px;
 }
+.contact-center {
+  background-color: rgba(104, 102, 96, 0.5);
+  text-align: center;
+  vertical-align: middle;
+  display: table-cell;
+  padding: 30px 40px 10px;
+	width: 100%;
+}
+.contact-center h2 {
+  color: #fafafa;
+	font-size: 35px;
+	margin-bottom: 35px;
+}
 .single-address {
 	display: inline;
 	float: left;
 	margin-bottom: 15px;
-	padding-right: 50px;
 	width: 100%;
 }
 .single-address h4 {
@@ -2187,7 +2199,7 @@ img{
 	  padding: 39px 16px;
 	}
   .scroll-link {
-    
+
   }
 	.search-area input[type="text"]:focus {
 	  width: 820px;
