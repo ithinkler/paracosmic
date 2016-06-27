@@ -62,6 +62,18 @@ Author URI : http://www.markups.io/
   border-color: #2D2D2D;
   background-color: #2D2D2D !important;
 }
+.button-white {
+  border: 2px solid #fff !important;
+  color: #fff !important;
+}
+.button-white:hover {
+  border-color: #fff;
+}
+.button-white:hover,
+.button-white:focus {
+  border-color: #fff;
+  background-color: #fff !important;
+}
 .introduction-btn {
   background-color: rgba(45, 45, 45, 0.8);
 }
@@ -184,7 +196,7 @@ Author URI : http://www.markups.io/
   background: #2D2D2D;
 }
 .footer-bottom p a{
-  color: #2D2D2D;
+  color: #fff;
 }
 .blog-pagination > li > a,
 .blog-pagination > li > span {
