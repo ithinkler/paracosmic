@@ -162,7 +162,7 @@ jQuery(function($){
 		// Cache selectors
 		var lastId,
 		topMenu = $(".main-nav"),
-		topMenuHeight = topMenu.outerHeight()+13,
+		topMenuHeight = topMenu.outerHeight()-16,
 		// All list items
 		menuItems = $(".scroll-link"),
 		// Anchors corresponding to menu items
@@ -175,7 +175,7 @@ jQuery(function($){
 		// so we can get a fancy scroll animation
 		menuItems.click(function(e){
 		  var href = $(this).attr("href"),
-		      offsetTop = href === "#" ? 0 : $(href).offset().top-topMenuHeight+32;
+		      offsetTop = href === "#" ? 0 : $(href).offset().top-topMenuHeight-100;
 		  jQuery('html, body').stop().animate({
 		      scrollTop: offsetTop
 		  }, 1500);
