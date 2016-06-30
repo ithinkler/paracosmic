@@ -51,7 +51,7 @@ ul{
 }
 a{
 	text-decoration: none;
-	color: #2f2f2f;
+	color: #ee4532;
 }
 a:focus{
 	outline: none;
@@ -954,16 +954,17 @@ img{
 .portfolio-container {
 	display: inline;
 	float: left;
-	margin-left: -9px;
+	margin-left: 0;
 	margin-top: 60px;
+	text-align: center;
 	width: 100%;
 }
 .single-portfolio {
 	display: inline;
-	float: left;
+	float: none;
 	margin-bottom: 18px;
 	margin-left: 18px;
-	width: 23.4%;
+	width: 27%;
 }
 .single-item{
 	width: 100%;
@@ -2358,7 +2359,7 @@ img{
 	  padding: 0 100px;
 	}
 	.single-portfolio {
-	  width: 47.5%;
+	  width: 43%;
 	}
 	.portfolio-social-icon {
   		padding: 85px 50px;
@@ -2491,7 +2492,7 @@ img{
 	  padding: 0 0 50px;
 	}
 	.about-left {
-	  width: 96%;
+	  width: 100%;
 	}
 	.about-left img {
 	  height: 100%;
