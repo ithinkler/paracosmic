@@ -487,7 +487,7 @@ img{
 	color: #7d7d7d;
 	font-size: 15px;
 	padding: 12px;
-  height:170px;
+  height:230px;
 }
 .single-wc-content:hover .wc-icon{
 	color: #fff;
@@ -2582,6 +2582,10 @@ img{
 	  font-weight: normal;
 	  line-height: 43px;
 	}
+  .header-inner > img {
+	  height: 250px;
+	  width: 100%;
+	}
 	.knowmore-btn {
 	  font-size: 14px;
 	  padding: 10px 15px;
@@ -2721,11 +2725,14 @@ img{
 	  padding: 0 45px;
 	}
 
+  .welcome-area{
+  	margin-top: 30px;
+  }
 }
 
 
 @media(max-width:360px ){
-	.header-inner > img {
+  .header-inner > img {
 	  height: 250px;
 	  width: 100%;
 	}
