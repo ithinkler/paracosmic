@@ -2456,8 +2456,8 @@ img{
 	}
 	.navbar-default .navbar-toggle:hover,
 	.navbar-default .navbar-toggle:focus{
-		background-color: #00d999;
-		border-color: #00d999;
+		background-color: #ee4532;
+		border-color: #334532;
 		color: #fff;
 	}
 	.navbar-default .navbar-toggle:hover .icon-bar,
