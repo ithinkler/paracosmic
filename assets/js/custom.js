@@ -82,9 +82,10 @@ jQuery(function($){
 	jQuery('.testimonial-slider').slick({
 		dots: false,
 		infinite: true,
-		speed: 500,
+		speed: 400,
 		arrows:true,
 		autoplay: true,
+		autoplaySpeed: 8000,
       	slidesToShow: 1,
 		slide: 'div',
 		cssEase: 'linear'

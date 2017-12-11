@@ -1,2 +1,2 @@
 #Welcome
-This is the github repository for Paracosmic Media
+This is the github pages branch for paracosmicmedia.com

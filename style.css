@@ -1248,6 +1248,9 @@ img{
 	padding: 70px 0;
 	width: 100%;
 }
+.testimonial-image{
+	height:100%;
+}
 .testimonial-area .tittle{
 	color: #fff;
 }
@@ -2313,7 +2316,7 @@ img{
 	  font-size: 15px;
 	}
 	.about-left {
-	  height: 328px;
+	  /*height: 328px;*/
 	  width: 100%;
 	}
 	.about-left img {
@@ -2402,6 +2405,9 @@ img{
 	  font-size: 25px;
 	  padding: 0 50px;
 	}
+	.testimonial-image{
+		height:700px;
+	}
 }
 
 
@@ -2435,9 +2441,9 @@ img{
 	  display: block;
 	  padding: 8px 7px;
 	}
-  .single-service p{
-    height: 100px;
-  }
+  	.single-service p{
+    	height: 100px;
+  	}
 	.less-padding {
 	  padding: 8px 7px !important;
 	}
@@ -2460,8 +2466,8 @@ img{
 	}
 	.navbar-default .navbar-toggle:hover,
 	.navbar-default .navbar-toggle:focus{
-		background-color: #00d999;
-		border-color: #00d999;
+		background-color: #ee4532;
+		border-color: #ee4532;
 		color: #fff;
 	}
 	.navbar-default .navbar-toggle:hover .icon-bar,
@@ -2549,6 +2555,9 @@ img{
 	}
 	#blog-banner {
 	  margin-top: -60px;
+	}
+	.testimonial-image{
+		height:800px;
 	}
 	.instagram-feed .slick-prev {
 	  left: 39%;
@@ -2699,6 +2708,9 @@ img{
 	}
 	.testimonial-thumb {
 	  margin: 20px auto 0;
+	}
+	.testimonial-image{
+		height:950px;
 	}
 	.client-table {
 	  padding-left: 30px;
